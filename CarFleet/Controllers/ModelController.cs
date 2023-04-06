@@ -36,7 +36,7 @@ namespace CarFleet.Controllers
                 return BadRequest("Record Not Found");
         }
         [HttpPost]
-        [Route("Add")]
+        [Route("addCarModel")]
         public async Task<IActionResult> Post([FromBody] CarModel model)
         {
             if (!ModelState.IsValid)
