@@ -1,0 +1,12 @@
+E:\.Net\Personal\CarFleet\SharedModel\bin\Debug\net6.0\SharedModel.deps.json
+E:\.Net\Personal\CarFleet\SharedModel\bin\Debug\net6.0\SharedModel.dll
+E:\.Net\Personal\CarFleet\SharedModel\bin\Debug\net6.0\SharedModel.pdb
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.csproj.AssemblyReference.cache
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.AssemblyInfoInputs.cache
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.AssemblyInfo.cs
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.csproj.CoreCompileInputs.cache
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.dll
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\refint\SharedModel.dll
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\SharedModel.pdb
+E:\.Net\Personal\CarFleet\SharedModel\obj\Debug\net6.0\ref\SharedModel.dll
